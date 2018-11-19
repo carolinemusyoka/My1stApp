@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_main"
+            android:icon="@drawable/main"
+            android:title="@string/popular_pizzas" />
+        <item
+            android:id="@+id/nav_quick"
+            android:icon="@drawable/quick"
+            android:title="@string/quick_and_simple_recipes" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/spicy"
+            android:title="@string/spicy_recipes" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/meat"
+            android:title="@string/for_the_love_of_meat" />
+        <item
+            android:id="@+id/nav_veggie"
+            android:icon="@drawable/veggie"
+            android:title="@string/for_the_veggie_lovers"
+            />
+        <item
+            android:id="@+id/nav_healthy"
+            android:icon="@drawable/healthy"
+            android:title="@string/healthy_tips_just_for_you"
+            />
+    </group>
+
+    <item android:title="@string/social">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/share_with_friends" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/send" />
+        </menu>
+    </item>
+
+</menu>

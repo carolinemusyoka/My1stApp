@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">New</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">THE PIZZA APP</string>
+    <string name="nav_header_subtitle">Making Everything easier because we help you.</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="share_with_friends">Share with friends</string>
+    <string name="send">Send</string>
+    <string name="healthy_tips_just_for_you">Healthy tips just for you</string>
+    <string name="for_the_veggie_lovers">For the veggie-lovers</string>
+    <string name="for_the_love_of_meat">For the love of meat</string>
+    <string name="spicy_recipes">Spicy Recipes</string>
+    <string name="popular_pizzas">Popular Pizzas</string>
+    <string name="quick_and_simple_recipes">Quick and simple recipes</string>
+    <string name="social">Social</string>
+    <string name="about">About</string>
+</resources>
